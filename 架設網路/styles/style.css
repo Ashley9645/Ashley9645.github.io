@@ -1,0 +1,23 @@
+body {
+    /* The image used */
+    background-image: url("../images/background.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #2E4053;
+    text-shadow: 3px 3px 1px black;
+    }
+img {
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+    }
